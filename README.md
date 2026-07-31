@@ -33,7 +33,7 @@ This notebook is a structured set of notes I'm building while learning data scie
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/your-username/numpy-pandas-notes.git
+   git clone https://github.com/Abhishekkushwaha15/numpy-pandas-notes.git
 ```
 2. Install dependencies
 ```bash
@@ -47,11 +47,11 @@ This notebook is a structured set of notes I'm building while learning data scie
 ## 📈 Progress
 
 - [x] NumPy basics
-- [x] Pandas basics
+- [ ] Pandas basics
 - [ ] Data cleaning
 - [ ] GroupBy & merging
 - [ ] Visualization with pandas
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Abhishek kushwaha.
