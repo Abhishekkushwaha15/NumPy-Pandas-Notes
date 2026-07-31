@@ -54,4 +54,4 @@ This notebook is a structured set of notes I'm building while learning data scie
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Abhishek kushwaha.
